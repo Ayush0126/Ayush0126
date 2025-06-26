@@ -5,7 +5,7 @@
 
 ##  About Me:
 
-- COE undergrad at **Thapar Institute of Engineering and Technology**
+- Computer Engineering undergrad at **Thapar Institute of Engineering and Technology (2022-2026)**
 - Cleared **NDA-148 Written Exam**
 - Qualified **GATE 2025 (CS)** with rank < 5000
 - Currently exploring **MERN stack** and **AI integration**
