@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Generate streak stats image
-        uses: DenverCoder1/github-readme-streak-stats@master
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           user_id: ayush0126
           theme: tokyonight
