@@ -42,16 +42,13 @@
 ---
 
 ## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush0126&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" height = "60%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0126&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-mocha-nu-81.vercel.app/api?username=Ayush0126&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" height="60%"/>
+  <img src="https://github-readme-stats-mocha-nu-81.vercel.app/api/top-langs/?username=Ayush0126&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush0126&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://raw.githubusercontent.com/Ayush0126/Ayush0126/main/github-readme-streak-stats.svg" width="60%" />
 </p>
-
 ---
 
 ### Want to collaborate or learn together? Connect with me on LinkedIn or drop a message!
