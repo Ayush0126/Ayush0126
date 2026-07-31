@@ -1,0 +1,21 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate streak stats image
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: ayush0126
+          theme: tokyonight
+          hide_border: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.STREAK_STATS_TOKEN }}
