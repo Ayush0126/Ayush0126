@@ -47,8 +47,9 @@
   <img src="https://github-readme-stats-mocha-nu-81.vercel.app/api/top-langs/?username=Ayush0126&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush0126/Ayush0126/main/github-readme-streak-stats.svg" width="60%" />
+  <img src="https://raw.githubusercontent.com/Ayush0126/Ayush0126/main/profile/streak.svg" width="60%" />
 </p>
+
 ---
 
 ### Want to collaborate or learn together? Connect with me on LinkedIn or drop a message!
